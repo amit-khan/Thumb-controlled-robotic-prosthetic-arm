@@ -8,6 +8,6 @@ Servo Motors\
 Accelerometer Gyro sensor\
 Metal grabber\
 Li-Ion battery\
-Aluminum chasis.\
+Aluminum chasis.
 
 Working Demo: https://sites.google.com/view/amithasankhan/projects/thumb-controlled-low-cost-prosthetic-robotic-arm
